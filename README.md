@@ -1,1 +1,1 @@
-# e.g.-my-game
+my-game
